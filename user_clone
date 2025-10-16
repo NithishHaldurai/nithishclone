@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "User",
+      "joined_at": "2025-10-15T22:24:26.827799"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "username": "User",
+      "content": "hello",
+      "timestamp": "2025-10-15T22:24:26.827784",
+      "type": "user_message"
+    },
+    {
+      "id": 2,
+      "username": "User",
+      "content": "respond",
+      "timestamp": "2025-10-15T22:25:33.310824",
+      "type": "user_message"
+    }
+  ],
+  "conversations": []
+}
